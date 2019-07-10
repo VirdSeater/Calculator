@@ -33,7 +33,6 @@ int main() {
         case ':':
             std::cout << num1 / num2;
             break;
-        case :
         default:
             std::cout << "This operator does not exists!";
     }
