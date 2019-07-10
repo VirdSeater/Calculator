@@ -7,13 +7,13 @@ int main() {
 
     float num1, num2;
 
-    std::cout << "Please enter the first number!";
+    std::cout << "Please enter the first number: ";
     std::cin >> num1;
 
-    std::cout << "Please enter the second number!";
+    std::cout << "Please enter the second number: ";
     std::cin >> num2;
 
-    std::cout << "Please enter a operator!";
+    std::cout << "Please enter a operator: ";
     std::cin >> op;
 
     switch (op)
