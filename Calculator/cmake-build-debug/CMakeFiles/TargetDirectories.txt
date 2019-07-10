@@ -1,0 +1,3 @@
+C:/Users/nilss/Desktop/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nilss/Desktop/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/Users/nilss/Desktop/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
